@@ -1,20 +1,19 @@
 {
-    "name": "DE-PACK.de",
-    "short_name": "DE-PACK.de",
+    "name": "DE-PACK",
+    "short_name": "DE-PACK",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png?v=oLBGxOEwgy",
+            "src": "/favicon/android-chrome-192x192.png?v=PYqBEG6JgP",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png?v=oLBGxOEwgy",
+            "src": "/favicon/android-chrome-512x512.png?v=PYqBEG6JgP",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
     "theme_color": "#c4182a",
     "background_color": "#c4182a",
-    "start_url": "https://www.de-pack.de/",
     "display": "standalone"
 }
